@@ -7,3 +7,7 @@ Benjamin T. Throesch, Muhammad Khadeesh bin Imtiaz, Rodrigo Muñoz-Castañeda, M
 
 bioRxiv 2023.04.13.536815; doi: https://doi.org/10.1101/2023.04.13.536815
 
+
+Registration done using Elastix registration toolbox
+
+https://elastix.lumc.nl
